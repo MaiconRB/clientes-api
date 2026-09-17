@@ -1,4 +1,4 @@
-# Clientes.Api
+# clientes-api
 
 API REST para cadastro e gestão de clientes, construída em **.NET 10** seguindo uma separação clara entre Controller, Service e Repository. Inclui testes automatizados, Swagger, Docker e pipeline de CI no GitHub Actions.
 
